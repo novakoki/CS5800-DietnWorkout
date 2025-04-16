@@ -72,7 +72,7 @@ class DietOptimizer:
         
         # Link quantity and selection variables
         # If food_qty > 0, then food_used must be 1
-        M = 10  # A sufficiently large number (maximum servings per food)
+        M = 3  # A sufficiently large number (maximum servings per food)
         for i in food_ids:
             for j in meal_types:
                 for k in days:
