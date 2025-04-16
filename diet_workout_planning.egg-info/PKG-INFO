@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: diet_workout_planning
+Version: 0.1.0
+Summary: A package for diet and workout planning
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Dynamic: classifier
+Dynamic: summary

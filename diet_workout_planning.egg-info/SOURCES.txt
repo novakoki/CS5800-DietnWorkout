@@ -1,0 +1,6 @@
+README.md
+setup.py
+diet_workout_planning.egg-info/PKG-INFO
+diet_workout_planning.egg-info/SOURCES.txt
+diet_workout_planning.egg-info/dependency_links.txt
+diet_workout_planning.egg-info/top_level.txt
